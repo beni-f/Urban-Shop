@@ -1,3 +1,4 @@
 node_modules
 migrations
 elasticsearch-8.13.4
+venv
