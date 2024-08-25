@@ -1,4 +1,6 @@
 node_modules
 migrations
 elasticsearch-8.13.4
+elasticsearch-8.13.4-linux-x86_64.tar.gz
+elasticsearch-8.13.4-linux-x86_64.tar.gz.sha512
 venv
